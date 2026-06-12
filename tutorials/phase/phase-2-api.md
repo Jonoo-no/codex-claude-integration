@@ -15,6 +15,8 @@
 | 05 | [创建 OpenAI Codex API](./05-codex-api-setup.md) | 注册 OpenAI、创建 API Key、了解 Codex | 🟢 初级 |
 | 06 | [创建 Anthropic Claude API](./06-claude-api-setup.md) | 注册 Anthropic、创建 API Key、了解 Claude | 🟢 初级 |
 | 07 | [API Key 管理与安全](./07-api-key-management.md) | 环境变量、.env 文件、安全最佳实践 | 🟡 中级 |
+| DeepSeek | [创建 DeepSeek API](./deepseek-api-key-management.md) | 注册 DeepSeek、创建 API Key、了解DeepSeek | 🟡 中级 |
+| 智谱GLM | [创建 GLM Codex API](./GLM-api-key-management.md) | 注册 GLM、创建 API Key、了解 GLM | 🟢 初级 |
 
 ---
 
