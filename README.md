@@ -37,13 +37,6 @@
 
 了解如何创建、配置和管理 AI 模型 API。
 
-| 教程 | 描述 | 难度 |
-|------|------|------|
-| [API 基础概念](./tutorials/04-api-basics.md) | 理解 REST API、认证、请求/响应 | 🟡 中级 |
-| [创建 OpenAI Codex API](./tutorials/05-codex-api-setup.md) | 详细步骤：申请、激活和配置 Codex API | 🟡 中级 |
-| [创建 Anthropic Claude API](./tutorials/06-claude-api-setup.md) | Claude API 的注册、密钥生成和测试 | 🟡 中级 |
-| [API 密钥管理与安全](./tutorials/07-api-security.md) | 如何安全地存储和使用 API 密钥 | 🔴 高级 |
-
 **👉 [开始第二阶段 →](./tutorials/phase-2-api.md)**
 
 ---
