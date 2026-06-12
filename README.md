@@ -13,6 +13,7 @@
 - ✅ 创建和管理 AI 模型 API
 - ✅ 使用 CC-Switch 与 Echo Bird 进行模型转接
 - ✅ 实现跨模型的无缝切换
+- ✅ 论文写作的skills推荐
 
 ---
 
