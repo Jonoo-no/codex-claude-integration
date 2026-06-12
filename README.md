@@ -138,7 +138,7 @@ codex-claude-integration/
 2. [创建 Codex 和 Claude API](./tutorials/05-codex-api-setup.md)
 3. [CC-Switch 实战使用](./tutorials/11-cc-switch-usage.md)
 4. [Codex + Claude 基础集成](./tutorials/13-basic-integration.md)
-5. [多模型协���架构](./tutorials/14-multi-model-architecture.md)
+5. [多模型协架构](./tutorials/14-multi-model-architecture.md)
 
 **预计时间：2-3 小时** ⏱️
 
