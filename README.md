@@ -1,5 +1,7 @@
 # Codex 与 Claude Code 跨 AI 模型集成教程 🚀
 
+[![Star](https://img.shields.io/github/stars/Jonoo-no/codex-claude-integration?style=social)](https://github.com/Jonoo-no/codex-claude-integration)
+
 欢迎来到这个全面的教程库！本项目致力于帮助开发者快速学会如何将 Codex 与 Claude Code 与其他 AI 模型进行无缝集成和转接。
 
 > 📚 **这是什么？** 一个从入门到精通的完整学习指南，涵盖环境配置、API 集成、工具使用等全方位内容。
