@@ -1,9 +1,9 @@
 # 🔄 第三阶段：模型转接工具
 
-欢迎来到第三阶段！本阶段将介绍两个实用的桌面工具：**CC-Switch** 和 **Echo Bird**。它们能让你用 API Key 直接启动并使用 Codex 与 Claude，无需写任何代码。
+欢迎来到第三阶段！本阶段将介绍两个实用的桌面工具：**CC-Switch** 和 **EchoBird**。它们能让你用 API Key 直接启动并使用 Codex 与 Claude，无需写任何代码。
 
 > ⏱️ **预计时间**：2-3 小时
-> 🎯 **目标**：学会下载、安装和使用 CC-Switch 及 Echo Bird
+> 🎯 **目标**：学会下载、安装和使用 CC-Switch 及 EchoBird
 
 ---
 
