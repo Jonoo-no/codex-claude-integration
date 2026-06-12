@@ -163,7 +163,7 @@ sk-proj-abc123def456ghi789jkl...
 
 ---
 
-**上一篇**: [返回第二阶段总览 →](./phase-2-api.md)
+**上一篇**: [返回第二阶段总览 →](./phase/phase-2-api.md)
 **下一篇**: [创建 OpenAI Codex API →](./05-codex-api-setup.md)
 
 **最后更新**: 2026年6月12日

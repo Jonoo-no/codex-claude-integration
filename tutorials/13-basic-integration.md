@@ -108,7 +108,7 @@
 
 ---
 
-**上一篇**: [返回第四阶段总览 →](./phase-4-advanced.md)
+**上一篇**: [返回第四阶段总览 →](./phase/phase-4-advanced.md)
 **下一篇**: [多模型协作架构 →](./14-multi-model-architecture.md)
 
 **最后更新**: 2026年6月12日

@@ -89,7 +89,7 @@ CC-Switch 帮你完成了所有技术细节——网络请求、格式转换、�
 
 ---
 
-**上一篇**: [返回第三阶段总览 →](./phase-3-tools.md)
+**上一篇**: [返回第三阶段总览 →](./phase/phase-3-tools.md)
 **下一篇**: [CC-Switch 下载与安装 →](./09-cc-switch-installation.md)
 
 **最后更新**: 2026年6月12日
