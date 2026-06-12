@@ -1,6 +1,10 @@
 # Codex 与 Claude Code 跨 AI 模型集成教程 🚀
 
-[![Star](https://img.shields.io/github/stars/Jonoo-no/codex-claude-integration?style=social)](https://github.com/Jonoo-no/codex-claude-integration)
+[![GitHub Stars](https://img.shields.io/github/stars/Jonoo-no/codex-claude-integration?style=flat-square&logo=github&color=yellow)](https://github.com/Jonoo-no/codex-claude-integration/stargazers)
+[![GitHub Contributors](https://img.shields.io/github/contributors/Jonoo-no/codex-claude-integration?style=flat-square&color=green)](https://github.com/Jonoo-no/codex-claude-integration/graphs/contributors)
+[![GitHub Issues](https://img.shields.io/github/issues/Jonoo-no/codex-claude-integration?style=flat-square&color=orange)](https://github.com/Jonoo-no/codex-claude-integration/issues)
+[![GitHub License](https://img.shields.io/github/license/Jonoo-no/codex-claude-integration?style=flat-square)](https://github.com/Jonoo-no/codex-claude-integration/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/Jonoo-no/codex-claude-integration?style=flat-square&color=blue)](https://github.com/Jonoo-no/codex-claude-integration/commits/main)
 
 欢迎来到这个全面的教程库！本项目致力于帮助开发者快速学会如何将 Codex 与 Claude Code 与其他 AI 模型进行无缝集成和转接。
 
