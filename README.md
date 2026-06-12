@@ -11,9 +11,9 @@
 本项目提供详细的分步教程，帮助你：
 - ✅ 配置本地开发环境
 - ✅ 创建和管理 AI 模型 API
-- ✅ 使用 CC-Switch 进行模型转接
-- ✅ 集成 Echo Bird 工具
+- ✅ 使用 CC-Switch 与 Echo Bird 进行模型转接
 - ✅ 实现跨模型的无缝切换
+- ✅ 论文写作的skills推荐
 
 ---
 
@@ -85,34 +85,6 @@
 
 **👉 [开始第五阶段 →](./tutorials/phase-5-cases.md)**
 
----
-
-## ⚡ 快速开始（5 分钟）
-
-如果你已经熟悉开发环境，可以快速开始：
-
-```bash
-# 1. 克隆本项目
-git clone https://github.com/Jonoo-no/codex-claude-integration.git
-cd codex-claude-integration
-
-# 2. 安装依赖
-npm install
-
-# 3. 配置环境变量
-cp .env.example .env
-# 编辑 .env 文件，添加你的 API 密钥
-
-# 4. 运行示例
-npm run example:basic
-
-# 5. 查看结果
-# 输出会显示不同 AI 模型的响应对比
-```
-
-**👉 [详细快速开始指南 →](./guides/quick-start.md)**
-
----
 
 ## 📁 项目结构
 
