@@ -220,6 +220,6 @@ your-project/
 ---
 
 **上一篇**: [创建 Anthropic Claude API →](./06-claude-api-setup.md)
-**下一篇**: [第三阶段：模型转接工具 →](./phase/phase-3-tools.md)
+**下一篇**: [第三阶段：模型转接工具 →](../phase/phase-3-tools.md)
 
 **最后更新**: 2026年6月12日

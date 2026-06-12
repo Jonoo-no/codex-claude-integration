@@ -757,7 +757,7 @@ source venv/bin/activate
 
 ---
 
-**上一步**: [返回主 README →](../../README.md)  
+**上一步**: [返回主 README →](../README.md)  
 **下一步**: [第二阶段：API 基础知识 →](./phase-2-api.md)
 
 **最后更新**: 2026年6月12日

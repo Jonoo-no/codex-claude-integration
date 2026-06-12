@@ -127,7 +127,7 @@
 
 ---
 
-**上一篇**: [返回第五阶段总览 →](./phase/phase-5-cases.md)
+**上一篇**: [返回第五阶段总览 →](../phase/phase-5-cases.md)
 **下一篇**: [案例 2: 智能文档生成器 →](./19-case-study-doc-generator.md)
 
 **最后更新**: 2026年6月12日

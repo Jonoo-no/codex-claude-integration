@@ -11,11 +11,11 @@
 
 | 序号 | 教程 | 描述 | 难度 |
 |------|------|------|------|
-| 13 | [Codex + Claude 基础集成](./13-basic-integration.md) | 理解两个模型的特点，学会在 CC-Switch 中切换使用 | 🟢 初级 |
-| 14 | [多模型协作架构](./14-multi-model-architecture.md) | 学会"看任务选模型"的思路 | 🟡 中级 |
-| 15 | [CC-Switch + Echo Bird 协作](./15-cc-switch-echo-bird.md) | 两个工具如何互补使用 | 🟡 中级 |
-| 16 | [性能优化与成本控制](./16-performance-optimization.md) | 省钱、提速的技巧 | 🟡 中级 |
-| 17 | [错误处理与故障排查](./17-troubleshooting.md) | 常见问题解决指南 | 🟢 初级 |
+| 13 | [Codex + Claude 基础集成](../tutorials/13-basic-integration.md) | 理解两个模型的特点，学会在 CC-Switch 中切换使用 | 🟢 初级 |
+| 14 | [多模型协作架构](../tutorials/14-multi-model-architecture.md) | 学会"看任务选模型"的思路 | 🟡 中级 |
+| 15 | [CC-Switch + Echo Bird 协作](../tutorials/15-cc-switch-echo-bird.md) | 两个工具如何互补使用 | 🟡 中级 |
+| 16 | [性能优化与成本控制](../tutorials/16-performance-optimization.md) | 省钱、提速的技巧 | 🟡 中级 |
+| 17 | [错误处理与故障排查](../tutorials/17-troubleshooting.md) | 常见问题解决指南 | 🟢 初级 |
 
 ---
 
@@ -37,7 +37,7 @@
 
 ---
 
-👉 **[开始第一篇：Codex + Claude 基础集成 →](./13-basic-integration.md)**
+👉 **[开始第一篇：Codex + Claude 基础集成 →](../tutorials/13-basic-integration.md)**
 
 ---
 

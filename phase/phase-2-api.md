@@ -11,12 +11,12 @@
 
 | 序号 | 教程 | 描述 | 难度 |
 |------|------|------|------|
-| 04 | [API 基础概念](./04-api-basics.md) | 什么是 API、请求与响应、HTTP 基础 | 🟢 初级 |
-| 05 | [创建 OpenAI Codex API](./05-codex-api-setup.md) | 注册 OpenAI、创建 API Key、了解 Codex | 🟢 初级 |
-| 06 | [创建 Anthropic Claude API](./06-claude-api-setup.md) | 注册 Anthropic、创建 API Key、了解 Claude | 🟢 初级 |
-| 07 | [API Key 管理与安全](./07-api-key-management.md) | 环境变量、.env 文件、安全最佳实践 | 🟡 中级 |
-| DeepSeek | [创建 DeepSeek API](./deepseek-api-key-management.md) | 注册 DeepSeek、创建 API Key、了解DeepSeek | 🟡 中级 |
-| 智谱GLM | [创建 GLM Codex API](./GLM-api-key-management.md) | 注册 GLM、创建 API Key、了解 GLM | 🟢 初级 |
+| 04 | [API 基础概念](../tutorials/04-api-basics.md) | 什么是 API、请求与响应、HTTP 基础 | 🟢 初级 |
+| 05 | [创建 OpenAI Codex API](../tutorials/05-codex-api-setup.md) | 注册 OpenAI、创建 API Key、了解 Codex | 🟢 初级 |
+| 06 | [创建 Anthropic Claude API](../tutorials/06-claude-api-setup.md) | 注册 Anthropic、创建 API Key、了解 Claude | 🟢 初级 |
+| 07 | [API Key 管理与安全](../tutorials/07-api-key-management.md) | 环境变量、.env 文件、安全最佳实践 | 🟡 中级 |
+| DeepSeek | [创建 DeepSeek API](../tutorials/deepseek-api-key-management.md) | 注册 DeepSeek、创建 API Key、了解DeepSeek | 🟡 中级 |
+| 智谱GLM | [创建 GLM Codex API](../tutorials/GLM-api-key-management.md) | 注册 GLM、创建 API Key、了解 GLM | 🟢 初级 |
 
 ---
 
@@ -42,7 +42,7 @@
 
 如果你是零基础，按 04 → 05 → 06 → 07 的顺序阅读。每篇教程末尾都有"下一篇"的链接。
 
-👉 **[开始第一篇：API 基础概念 →](./04-api-basics.md)**
+👉 **[开始第一篇：API 基础概念 →](../tutorials/04-api-basics.md)**
 
 ---
 

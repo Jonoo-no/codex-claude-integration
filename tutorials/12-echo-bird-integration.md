@@ -118,6 +118,6 @@ Echo Bird 也支持同时添加多个模型——把你的 OpenAI Key 和 Anthro
 ---
 
 **上一篇**: [CC-Switch 实战使用 →](./11-cc-switch-usage.md)
-**下一篇**: [第四阶段：高级集成 →](./phase/phase-4-advanced.md)
+**下一篇**: [第四阶段：高级集成 →](../phase/phase-4-advanced.md)
 
 **最后更新**: 2026年6月12日

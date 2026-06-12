@@ -11,9 +11,9 @@
 
 | 序号 | 教程 | 描述 | 难度 |
 |------|------|------|------|
-| 18 | [案例 1: AI 代码助手](./18-case-study-code-assistant.md) | 用 CC-Switch 构建编程学习助手 | 🟡 中级 |
-| 19 | [案例 2: 智能文档生成器](./19-case-study-doc-generator.md) | Codex 分析代码 + Claude 写文档 | 🟡 中级 |
-| 20 | [案例 3: API 模型管理方案](./20-case-study-api-gateway.md) | Key 管理、模型命名、多场景切换 | 🟢 初级 |
+| 18 | [案例 1: AI 代码助手](../tutorials/18-case-study-code-assistant.md) | 用 CC-Switch 构建编程学习助手 | 🟡 中级 |
+| 19 | [案例 2: 智能文档生成器](../tutorials/19-case-study-doc-generator.md) | Codex 分析代码 + Claude 写文档 | 🟡 中级 |
+| 20 | [案例 3: API 模型管理方案](../tutorials/20-case-study-api-gateway.md) | Key 管理、模型命名、多场景切换 | 🟢 初级 |
 
 ---
 
@@ -48,7 +48,7 @@
 
 ---
 
-👉 **[开始第一个案例：AI 代码助手 →](./18-case-study-code-assistant.md)**
+👉 **[开始第一个案例：AI 代码助手 →](../tutorials/18-case-study-code-assistant.md)**
 
 ---
 

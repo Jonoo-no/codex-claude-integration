@@ -29,7 +29,7 @@
 | [Node.js 下载与环境搭建](./tutorials/02-nodejs-setup.md) | 完整的 Node.js装指南，包括 npm 和包管理 | 🟢 初级 |
 | [Python 环境配置](./tutorials/03-python-setup.md) | Python 虚拟环境和依赖管理（如需要） | 🟡 中级 |
 
-**👉 [开始第一阶段 →](./tutorials/phase/phase-1-setup.md)**
+**👉 [开始第一阶段 →](./phase/phase-1-setup.md)**
 
 ---
 
@@ -37,7 +37,7 @@
 
 了解如何创建、配置和管理 AI 模型 API。
 
-**👉 [开始第二阶段 →](./tutorials/phase/phase-2-api.md)**
+**👉 [开始第二阶段 →](./phase/phase-2-api.md)**
 
 ---
 
@@ -53,7 +53,7 @@
 | [CC-Switch 实战使用](./tutorials/11-cc-switch-usage.md) | 真实场景中的使用案例和最佳实践 | 🟡 中级 |
 | [Echo Bird 工具集成](./tutorials/12-echo-bird-integration.md) | Echo Bird 的安装、配置和与其他工具的协作 | 🔴 高级 |
 
-**👉 [开始第三阶段 →](./tutorials/phase/phase-3-tools.md)**
+**👉 [开始第三阶段 →](./phase/phase-3-tools.md)**
 
 ---
 
@@ -69,7 +69,7 @@
 | [性能优化与监控](./tutorials/16-performance-optimization.md) | 优化响应速度、成本和可靠性 | 🔴 高级 |
 | [错误处理与故障排查](./tutorials/17-troubleshooting.md) | 常见问题解决指南 | 🟡 中级 |
 
-**👉 [开始第四阶段 →](./tutorials/phase/phase-4-advanced.md)**
+**👉 [开始第四阶段 →](./phase/phase-4-advanced.md)**
 
 ---
 
@@ -83,20 +83,20 @@
 | [案例 2: 智能文档生成器](./tutorials/19-case-study-doc-generator.md) | 利用多个 AI 模型生成优质文档 | 🔴 高级 |
 | [案例 3: API 网关](./tutorials/20-case-study-api-gateway.md) | 构建统一的 API 网关进行模型管理 | 🔴 高级 |
 
-**👉 [开始第五阶段 →](./tutorials/phase/phase-5-cases.md)**
+**👉 [开始第五阶段 →](./phase/phase-5-cases.md)**
 
 
 ## 📁 项目结构
 
 ```
 codex-claude-integration/
-├── tutorials/              # 所有教程文件
-│   ├── phase/               # 各阶段总览
-│   │   ├── phase-1-setup.md
-│   │   ├── phase-2-api.md
-│   │   ├── phase-3-tools.md
-│   │   ├── phase-4-advanced.md
-│   │   └── phase-5-cases.md
+├── phase/                   # 各阶段总览
+│   ├── phase-1-setup.md
+│   ├── phase-2-api.md
+│   ├── phase-3-tools.md
+│   ├── phase-4-advanced.md
+│   └── phase-5-cases.md
+├── tutorials/               # 所有教程文件
 ├── examples/              # 代码示例
 │   ├── basic-switch.js
 │   ├── multi-model.js
@@ -135,7 +135,7 @@ codex-claude-integration/
 ### 🔴 有 AI/ML 背景的开发者
 1. [多模型协作架构](./tutorials/14-multi-model-architecture.md)
 2. [CC-Switch + Echo Bird 协作](./tutorials/15-cc-switch-echo-bird.md)
-3. [项目案例](./tutorials/phase/phase-5-cases.md)
+3. [项目案例](./phase/phase-5-cases.md)
 
 **预计时间：1-2 小时** ⏱️
 

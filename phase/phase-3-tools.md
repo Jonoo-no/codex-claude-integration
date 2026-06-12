@@ -11,11 +11,11 @@
 
 | 序号 | 教程 | 描述 | 难度 |
 |------|------|------|------|
-| 08 | [CC-Switch 工具介绍](./08-cc-switch-intro.md) | CC-Switch 是什么、它解决了什么问题 | 🟢 初级 |
-| 09 | [CC-Switch 下载与安装](./09-cc-switch-installation.md) | 从 GitHub Releases 下载并安装 | 🟢 初级 |
-| 10 | [CC-Switch 界面与模型配置](./10-cc-switch-config.md) | 认识界面、添加模型、填写 API Key | 🟡 中级 |
-| 11 | [CC-Switch 实战使用](./11-cc-switch-usage.md) | 日常使用场景与操作演示 | 🟡 中级 |
-| 12 | [Echo Bird 工具集成](./12-echo-bird-integration.md) | Echo Bird 的下载、安装与使用 | 🟡 中级 |
+| 08 | [CC-Switch 工具介绍](../tutorials/08-cc-switch-intro.md) | CC-Switch 是什么、它解决了什么问题 | 🟢 初级 |
+| 09 | [CC-Switch 下载与安装](../tutorials/09-cc-switch-installation.md) | 从 GitHub Releases 下载并安装 | 🟢 初级 |
+| 10 | [CC-Switch 界面与模型配置](../tutorials/10-cc-switch-config.md) | 认识界面、添加模型、填写 API Key | 🟡 中级 |
+| 11 | [CC-Switch 实战使用](../tutorials/11-cc-switch-usage.md) | 日常使用场景与操作演示 | 🟡 中级 |
+| 12 | [Echo Bird 工具集成](../tutorials/12-echo-bird-integration.md) | Echo Bird 的下载、安装与使用 | 🟡 中级 |
 
 ---
 
@@ -63,7 +63,7 @@
 
 ---
 
-👉 **[开始第一篇：CC-Switch 工具介绍 →](./08-cc-switch-intro.md)**
+👉 **[开始第一篇：CC-Switch 工具介绍 →](../tutorials/08-cc-switch-intro.md)**
 
 ---
 
