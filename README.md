@@ -26,7 +26,7 @@
 | 教程 | 描述 | 难度 |
 |------|------|------|
 | [Git 安装与环境配置](./tutorials/01-git-setup.md) | 从零开始学会 Git 的安装、配置和基础使用 | 🟢 初级 |
-| [Node.js 下载与环境搭建](./tutorials/02-nodejs-setup.md) | 完整的 Node.js ���装指南，包括 npm 和包管理 | 🟢 初级 |
+| [Node.js 下载与环境搭建](./tutorials/02-nodejs-setup.md) | 完整的 Node.js装指南，包括 npm 和包管理 | 🟢 初级 |
 | [Python 环境配置](./tutorials/03-python-setup.md) | Python 虚拟环境和依赖管理（如需要） | 🟡 中级 |
 
 **👉 [开始第一阶段 →](./tutorials/phase-1-setup.md)**
