@@ -66,23 +66,13 @@ git config --global user.name "Jonoo-no"
 git config --global user.email "你的邮箱@example.com"
 ```
 
-例如：
-```bash
-git config --global user.email "1627854419@qq.com"
-```
-
 4. 验证配置：
 
 ```bash
 git config --global --list
 ```
 
-你应该看到类似的输出：
-```
-user.name=Jonoo-no
-user.email=1627854419@qq.com
-...
-```
+
 
 ✅ **Windows 安装完成！**
 
